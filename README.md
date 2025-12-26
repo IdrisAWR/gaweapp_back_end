@@ -16,6 +16,6 @@ Aplikasi backend bertanggung jawab dalam pengelolaan data, autentikasi, serta ko
 - **nodemon** – Development auto-reload
 
 ---
-
+## Menjalankan dengan CLI pada folder: node server.js
 
 
